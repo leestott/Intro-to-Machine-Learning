@@ -19,16 +19,18 @@
 
 ## PRACTICALS JUPYTER NOTEBOOKS
 
-- [Statistics of datasets](statistics_of_datasets_template.ipynb)
-- [Angles and distances between images](distances_and_angles_template.ipynb)
-- [Orthogonal projections](projections_template.ipynb)
-- [Principal component analysis](pca_template.ipynb)
-- [Linear regression](linear_regression_template.ipynb)
-- [Gaussian processes](gaussian_processes.ipynb)
-- [Gaussian mixture models](tutorial_gmm.template.ipynb)
-- [Logistic regression](logistic_regression_assignment.template.ipynb)
+- [Statistics of datasets](Tutorials/statistics_of_datasets_template.ipynb)
+- [Angles and distances between images](Tutorials/distances_and_angles_template.ipynb)
+- [Orthogonal projections](Tutorials/projections_template.ipynb)
+- [Principal component analysis](Tutorials/pca_template.ipynb)
+- [Linear regression](Tutorials/linear_regression_template.ipynb)
+- [Gaussian processes](Tutorials/gaussian_processes.ipynb)
+- [Gaussian mixture models](Tutorials/tutorial_gmm.template.ipynb)
+- [Logistic regression](Tutorials/logistic_regression_assignment.template.ipynb)
 
 ## Azure Notebooks
+
+You can interactively run the practical Notebooks using Microsoft Azure Notebooks this project is available at [https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning](https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning)
 
 ## REFERENCES
 
