@@ -10,8 +10,8 @@
 
 ## Part 2: Machine Learning
 
-- Graphical Models [Chris Bishop's book chapter](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-PRML-sample.pdf)
-- Dimensionality Reduction with Principal Component Analysis [MML book chapter](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-PRML-sample.pdf))
+- Graphical Models [Chris Bishop's book chapter](https://www.microsoft.com/research/wp-content/uploads/2016/05/Bishop-PRML-sample.pdf?WT.mc_id=academic-0000-leestott)
+- Dimensionality Reduction with Principal Component Analysis [MML book chapter](https://www.microsoft.com/research/wp-content/uploads/2016/05/Bishop-PRML-sample.pdf?WT.mc_id=academic-0000-leestott))
 - Linear Regression [MML book chapter](https://mml-book.github.io/book/chapter09.pdf))
 - Model Selection [MML book chapter](https://mml-book.github.io/book/chapter08.pdf)
 - Gaussian Process Regression [GPML book](http://www.gaussianprocess.org/gpml/chapters/RW.pdf)
@@ -30,7 +30,7 @@
 
 ## Azure Notebooks
 
-You can interactively run the practical Notebooks using Microsoft Azure Notebooks this project is available at [https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning](https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning)
+You can interactively run the practical Notebooks using Microsoft Azure Notebooks this project is available at [https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning?WT.mc_id=academic-0000-leestott](https://notebooks.azure.com/LeeStott-Microsoft/projects/intro-to-machine-learning?WT.mc_id=academic-0000-leestott)
 
 ## REFERENCES
 
